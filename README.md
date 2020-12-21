@@ -1,5 +1,5 @@
 
-API Urgellet Recicla a apiUrgellet provant fetch
+API Urgellet Recicla a apiUrgellet provant MancoUrgellet/api
 
 
 A server that serves a webpage, its resources, and some data
